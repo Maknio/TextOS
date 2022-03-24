@@ -1,6 +1,8 @@
 # TextOS
 The most modern text based micro operating system today!
 
+![textos_promo](https://user-images.githubusercontent.com/102273073/159836624-ca99a2f4-8a03-4562-9cab-ff4e91f29b13.png)
+
 Do you want to get in to operating system? Well, we have a good starting place for you.
 
 TextOS is a micro operating system [MOS] that can fit within' a singular batch file.

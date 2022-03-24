@@ -11,6 +11,6 @@ It has a file browser, fake internet, blog, and a seperate offline chatroom appl
 
 To make a ***blog post***, click here: https://forms.gle/mSo63zVCg8ue9Hd87
 
-To make an ***application*** in the File Browser, click here: https://forms.gle/Qb5VdjYCoj9mEDj88
+To make an ***application*** in the File Browser, click here: https://forms.gle/3jfdsZ2enUQHbziPA
 
 Thanks! - Maknio.
